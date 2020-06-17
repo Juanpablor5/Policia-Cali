@@ -1,0 +1,141 @@
+{
+    "policia":[ 
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación Terrón Colorado", "direccion": "Avenida 4 BIS Oeste # 19-00 Cali", "lat": 3.452220, "lng": -76.569420},
+
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Subestación Montebello", "direccion": "Calle 12 Oeste No 42-71 Cgto Montebello Cali", "lat": 3.484352, "lng": -76.552341},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación la Flora", "direccion": "AV. 3N. cona calle 23C B/Versalles Cali", "lat": 3.459699, "lng": -76.530626},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación la Flora", "direccion": "Terminal de Cali", "lat": 3.465721, "lng": -76.521279},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación la Flora", "direccion": "AV.6 con calle 30 Cali", "lat": 3.472211, "lng": -76.528339},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación la Flora", "direccion": "AV. 2 con calle 52 Cali", "lat": 3.481466, "lng": -76.509583},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación la Flora", "direccion": "AV. 3 con calle 44 Cali", "lat": 3.478104, "lng": -76.517464},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación la Flora", "direccion": "AV. 4 Oeste Cali", "lat": 3.450820, "lng": -76.556055},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación Fray Damian", "direccion": "Calle 13A No. 13-41 Cali", "lat": 3.444265, "lng": -76.528017},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación Fray Damián", "direccion": "Carrera 10 # 1 OE - 00 Cali", "lat": 3.447495, "lng": -76.541551},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación Fray Damián", "direccion": "Calle 3 # 14 - 00 Cali", "lat": 3.443387, "lng": -76.538855},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación San Francisco", "direccion": "Carrera 1N # 33-00 Cali", "lat": 3.471619, "lng": -76.491821},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación Junín", "direccion": "Carrera 24 # 11-08 Cali", "lat": 3.432064, "lng": -76.529697},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación Junín", "direccion": "Carrera 10 entre Calle 22A y 23 Cali", "lat": 3.449748, "lng": -76.521130},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación la Rivera", "direccion": "Carrera 1D # 67-00 B/La Rivera Cali", "lat": 3.475488, "lng": -76.490051},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación la Rivera", "direccion": "Carrera 1 & Calle 70 B/ Metropolitano Cali", "lat": 3.485795, "lng": -76.494107},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación la Rivera", "direccion": "Carrera 5 & Calle 52 B/ Salomia Cali", "lat": 3.471566, "lng": -76.503481},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Floralia", "direccion": "Calle 72J No. 3AN-00 B/ Floralia Cali", "lat": 3.494773, "lng": -76.494102},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Floralia", "direccion": "Carrera 1 con Calle 83 B/Calimio Cali", "lat": 3.473135, "lng": -76.507529},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Floralia", "direccion": "Calle 73 con Carrera 3D B/ Quintas de Salomia Cali", "lat": 3.469636, "lng": -76.484348},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Alfonso López", "direccion": "Carrera 7D # 82-00 B/Alfonso López Cali", "lat": 3.464202, "lng": -76.477328},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Alfonso López", "direccion": "Calle 69 # 7C-00 Cali", "lat": 3.463710, "lng": -76.485897},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Municipal", "direccion": "Carrera 13 # 39-33 B/Municipal Cali", "lat": 3.446503, "lng": -76.506268},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Agua Blanca", "direccion": "Calle 26A # 25-28 Cali", "lat": 3.432083, "lng": -76.518447},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Agua Blanca", "direccion": "Calle 36 & KRA 47 Cali", "lat": 3.415568, "lng": -76.512335},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Nueva Floresta", "direccion": "Calle 44 # 24B-00 B/ Floresta Cali", "lat": 3.447770, "lng": -76.503926},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Guabal", "direccion": "Carrera 44 # 14B-75 Cali", "lat": 3.412854, "lng": -76.527209},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Caney", "direccion": "Carrera 81 # 47-00 B/Caney Cali", "lat": 3.386790, "lng": -76.516937},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Caney", "direccion": "AV. 5B con carrera 56 Cali", "lat": 3.408671, "lng": -76.546445},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Caney", "direccion": "Carrera 100 con calle 20 Cali", "lat": 3.451885, "lng": -76.524255},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Meléndez", "direccion": "Calle 4 # 93-00 Cali", "lat": 3.375857, "lng": -76.547251},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Subestación Buitrera", "direccion": "Carrera 77 calle 2A Cali", "lat": 3.388199, "lng": -76.549779},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Lido", "direccion": "Carrera 52 # 2-00 Cali", "lat": 3.416337, "lng": -76.553155},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Subestación Pichindé", "direccion": "Vía principal corregimiento Pichinde Cali", "lat": 3.373232, "lng": -76.532656},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Subestación Pichindé", "direccion": "AV. Circunvalar con Carrera 4 Cali", "lat": 3.448041, "lng": -76.544333},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Subestación Pichindé", "direccion": "Calle 5 Con CRA 36 Cali", "lat": 3.431158, "lng": -76.543714},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Subestación Pichindé", "direccion": "Calle 1 OESTE Con 56 Cali", "lat": 3.409858, "lng": -76.555233},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Subestación Pichindé", "direccion": "Calle 2 OESTE Con CRA 24 Cali", "lat": 3.438747, "lng": -76.543468},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Sultana", "direccion": "Calle 22 oeste No.47-29 B/ La Sultana Cali", "lat": 3.422376, "lng": -76.564118},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Sultana", "direccion": "Carrera 51 # 7-33 Barrio El Cortijo Cali", "lat": 3.417801, "lng": -76.559798},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Diamante", "direccion": "Calle 41 # 32A -16 Cali", "lat": 3.416140, "lng": -76.498469},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Diamante", "direccion": "Carrera 28C con calle 71 Cali", "lat": 3.424265, "lng": -76.493126},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Diamante", "direccion": "Carrera 25U con calle 72U Cali", "lat": 3.440490, "lng": -76.484842},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Los Mangos", "direccion": "Calle 73 # Diag. 26 M-90 B/Marroquín II Cali", "lat": 3.426374, "lng": -76.484363},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Mangos", "direccion": "Calle 112 con carrera 26 Cali", "lat": 3.427083, "lng": -76.468286},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Mangos", "direccion": "Calle 103 con carrerera 28A Cali", "lat": 3.413070, "lng": -76.479515},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Mangos", "direccion": "Carrera 26C con calle 84 Cali", "lat": 3.431577, "lng": -76.474422},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Vallado", "direccion": "Carrera 41B # 50-02 Cali", "lat": 3.406470, "lng": -76.502627},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Vallado", "direccion": "Calle 83 con Carrera 28D4 Cali", "lat": 3.415038, "lng": -76.488803},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Mariano Ramos", "direccion": "Carrera 48 # 45-03 Cali", "lat": 3.401242, "lng": -76.515377},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Desepaz", "direccion": "Calle 121 # 25-00 Cali", "lat": 3.425277, "lng": -76.465410},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Desepaz", "direccion": "Calle 123 Con caarrera 28D2 B/ Potrero Grande Cali", "lat": 3.409741, "lng": -76.470027},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Desepaz", "direccion": "Calle 123 con carrera 28F B/ Pizamos Cali", "lat": 3.402727, "lng": -76.473126},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Estación Yumbo", "direccion": "Calle 4 # 5-35 B/Belalcazar Cali", "lat": 3.448277, "lng": -76.537963},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Subestación Dapa", "direccion": "Calle 10 con carrera 40 Acopi-Yumbo Cali", "lat": 3.495101, "lng": -76.522471},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Subestación Dapa", "direccion": "Calle 10 con carrera 18 B/Las Americas Cali", "lat": 3.440181, "lng": -76.531629},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Subestación Dapa", "direccion": "Calle 18 con carrera 13A B/La Estancia Cali", "lat": 4.649694, "lng": -74.068736},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Subestación Dapa", "direccion": "Calle 5AN # 10AN-09 B/Pizarro Cali", "lat": 6.992324, "lng": -73.058048},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Estación Vijes", "direccion": "Carrera 5 # 5- 23 B/Centro Cali", "lat": 3.449075, "lng": -76.537046},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Estación La Cumbre", "direccion": "Carrera 5 # 2 -10 Cali", "lat": 3.448061, "lng": -76.539169},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Subestación Pavas", "direccion": "Carrera 8 con calle 4 esquina Cali", "lat": 3.453176, "lng": -76.505340},
+        
+        {"distrito": "Distrito Seis Jamundí", "estacion": "Estación Jamundí", "direccion": "Carrera 10 # 17-02 Cali", "lat": 3.448347, "lng": -76.525770},
+        
+        {"distrito": "Distrito Seis Jamundí", "estacion": "Estación La María", "direccion": "Carrera 125 # 24-00 Cali", "lat": 3.336824, "lng": -76.551571},
+        
+        {"distrito": "Distrito Siete Candelaria", "estacion": "Estación Candelaria", "direccion": "Carrera 6 # 8-50 Cali", "lat": 3.449520, "lng": -76.534423},
+        
+        {"distrito": "Distrito Siete Candelaria", "estacion": "Subestación Cabuyal", "direccion": "Carrera 6 # 5-16 Cali", "lat": 3.448267, "lng": -76.536777},
+        
+        {"distrito": "Distrito Siete Candelaria", "estacion": "Subestación Carmelo", "direccion": "Calle 14 # 10-09 B/Oaisis Cali", "lat": 3.447764, "lng": -76.528059},
+        
+        {"distrito": "Distrito Siete Candelaria", "estacion": "Subestación San Joaquín", "direccion": "Carrera 5C con calle 7 Cali", "lat": 3.424222, "lng": -76.542594},
+        
+        {"distrito": "Distrito Siete Candelaria", "estacion": "Subestación Villa Gorgona", "direccion": "Carrera 11 # 12-28 Cali", "lat": 3.446611, "lng": -76.530280},
+        
+        {"distrito": "Distrito Siete Candelaria", "estacion": "Subestación Juanchito", "direccion": "Carrera 8º # 93-58 Cali", "lat": 3.450122, "lng": -76.474467}   
+    ]
+}

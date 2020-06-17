@@ -1,0 +1,69 @@
+0: {estacion: "Estación Terrón Colorado", lat: 47, lng: 5}
+1: {estacion: "Subestación Montebello", lat: 15, lng: 22}
+2: {estacion: "Estación la Flora", lat: 40, lng: 44}
+3: {estacion: "Estación la Flora", lat: 34, lng: 53}
+4: {estacion: "Estación la Flora", lat: 27, lng: 46}
+5: {estacion: "Estación la Flora", lat: 18, lng: 65}
+6: {estacion: "Estación la Flora", lat: 21, lng: 57}
+7: {estacion: "Estación la Flora", lat: 49, lng: 18}
+8: {estacion: "Estación Fray Damian", lat: 55, lng: 46}
+9: {estacion: "Estación Fray Damián", lat: 52, lng: 33}
+10: {estacion: "Estación Fray Damián", lat: 56, lng: 36}
+11: {estacion: "Estación San Francisco", lat: 28, lng: 83}
+12: {estacion: "Estación Junín", lat: 67, lng: 45}
+13: {estacion: "Estación Junín", lat: 50, lng: 53}
+14: {estacion: "Estación la Rivera", lat: 24, lng: 84}
+15: {estacion: "Estación la Rivera", lat: 14, lng: 80}
+16: {estacion: "Estación la Rivera", lat: 28, lng: 71}
+17: {estacion: "Estación Floralia", lat: 5, lng: 80}
+18: {estacion: "Estación Floralia", lat: 26, lng: 67}
+19: {estacion: "Estación Floralia", lat: 30, lng: 90}
+20: {estacion: "Estación Alfonso López", lat: 35, lng: 97}
+21: {estacion: "Estación Alfonso López", lat: 36, lng: 89}
+22: {estacion: "Estación Municipal", lat: 53, lng: 68}
+23: {estacion: "Estación Agua Blanca", lat: 67, lng: 56}
+24: {estacion: "Estación Agua Blanca", lat: 84, lng: 62}
+25: {estacion: "Estación Nueva Floresta", lat: 52, lng: 71}
+26: {estacion: "Estación Guabal", lat: 87, lng: 47}
+27: {estacion: "Estación Caney", lat: 113, lng: 58}
+28: {estacion: "Estación Caney", lat: 91, lng: 28}
+29: {estacion: "Estación Caney", lat: 48, lng: 50}
+30: {estacion: "Estación Meléndez", lat: 124, lng: 27}
+31: {estacion: "Subestación Buitrera", lat: 111, lng: 25}
+32: {estacion: "Estación Lido", lat: 83, lng: 21}
+33: {estacion: "Subestación Pichindé", lat: 126, lng: 42}
+34: {estacion: "Subestación Pichindé", lat: 51, lng: 30}
+35: {estacion: "Subestación Pichindé", lat: 68, lng: 31}
+36: {estacion: "Subestación Pichindé", lat: 90, lng: 19}
+37: {estacion: "Subestación Pichindé", lat: 61, lng: 31}
+38: {estacion: "Estación Sultana", lat: 77, lng: 10}
+39: {estacion: "Estación Sultana", lat: 82, lng: 15}
+40: {estacion: "Estación Diamante", lat: 83, lng: 76}
+41: {estacion: "Estación Diamante", lat: 75, lng: 81}
+42: {estacion: "Estación Diamante", lat: 59, lng: 90}
+43: {estacion: "Estación Los Mangos", lat: 73, lng: 90}
+44: {estacion: "Estación Mangos", lat: 72, lng: 106}
+45: {estacion: "Estación Mangos", lat: 86, lng: 95}
+46: {estacion: "Estación Mangos", lat: 68, lng: 100}
+47: {estacion: "Estación Vallado", lat: 93, lng: 72}
+48: {estacion: "Estación Vallado", lat: 84, lng: 86}
+49: {estacion: "Estación Mariano Ramos", lat: 98, lng: 59}
+50: {estacion: "Estación Desepaz", lat: 74, lng: 109}
+51: {estacion: "Estación Desepaz", lat: 90, lng: 104}
+52: {estacion: "Estación Desepaz", lat: 97, lng: 101}
+53: {estacion: "Estación Yumbo", lat: 51, lng: 37}
+54: {estacion: "Subestación Dapa", lat: 4, lng: 52}
+55: {estacion: "Subestación Dapa", lat: 59, lng: 43}
+56: {estacion: "Subestación Dapa", lat: 0, lng: 0}
+57: {estacion: "Subestación Dapa", lat: 0, lng: 0}
+58: {estacion: "Estación Vijes", lat: 50, lng: 37}
+59: {estacion: "Estación La Cumbre", lat: 51, lng: 35}
+60: {estacion: "Subestación Pavas", lat: 46, lng: 69}
+61: {estacion: "Estación Jamundí", lat: 51, lng: 49}
+62: {estacion: "Estación La María", lat: 0, lng: 23}
+63: {estacion: "Estación Candelaria", lat: 50, lng: 40}
+64: {estacion: "Subestación Cabuyal", lat: 51, lng: 38}
+65: {estacion: "Subestación Carmelo", lat: 52, lng: 46}
+66: {estacion: "Subestación San Joaquín", lat: 75, lng: 32}
+67: {estacion: "Subestación Villa Gorgona", lat: 53, lng: 44}
+68: {estacion: "Subestación Juanchito", lat: 49, lng: 100}

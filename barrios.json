@@ -1,0 +1,442 @@
+{ 
+
+    "barrios":[ 
+
+        {"nombre": "20 de Julio", "lat": 3.434934, "lng": -76.512716}, 
+
+        {"nombre": "3 de Julio", "lat": 3.433044, "lng": -76.539511}, 
+
+        {"nombre": "Acueducto san antonio", "lat": 3.445002, "lng": -76.543398}, 
+
+        {"nombre": "Agua Blanca", "lat": 3.432728, "lng": -76.517941}, 
+
+        {"nombre": "Aguacatal", "lat": 3.458548, "lng": -76.557337}, 
+
+        {"nombre": "Alameda", "lat": 3.432790, "lng": -76.534586}, 
+
+        {"nombre": "Alferez Real", "lat": 3.390515, "lng": -76.548486}, 
+
+        {"nombre": "Alfonso Barberena A.", "lat": 3.435550, "lng": -76.507797}, 
+
+        {"nombre": "Alfonso Bonilla Aragón", "lat": 3.419204, "lng": -76.482999}, 
+
+        {"nombre": "Alfonso Lopez I", "lat": 3.464425, "lng": -76.479933},
+
+        {"nombre": "Alfonso Lopez II", "lat": 3.458982, "lng": -76.480952},
+        
+        {"nombre": "Alfonso Lopez III", "lat": 3.454725, "lng": -76.481947},
+
+        {"nombre": "Alirio Mora Beltran", "lat": 3.438105, "lng": -76.478779},
+
+        {"nombre": "Alto Napoles", "lat": 3.384598, "lng": -76.555225}, 
+
+        {"nombre": "Altos de Menga", "lat": 3.490862, "lng": -76.533374}, 
+
+        {"nombre": "Antonio Nariño", "lat": 3.414453, "lng": -76.506004}, 
+
+        {"nombre": "Aranjuez", "lat": 3.435995, "lng": -76.523061}, 
+
+        {"nombre": "Atanasio Girardot", "lat": 3.444402, "lng": -76.508070}, 
+
+        {"nombre": "Belalcazar", "lat": 3.441676, "lng": -76.521170}, 
+
+        {"nombre": "Belen", "lat": 3.426538, "lng": -76.553419}, 
+
+        {"nombre": "Belisario Caicedo", "lat": 3.413734, "lng": -76.556822}, 
+
+        {"nombre": "Bellavista", "lat": 3.444530, "lng": -76.552477}, 
+
+        {"nombre": "Benjamin Herrera", "lat": 3.447576, "lng": -76.516356}, 
+
+        {"nombre": "Bolivariano", "lat": 3.467895, "lng": -76.514140}, 
+
+        {"nombre": "Bosques del Limonar", "lat": 3.400258, "lng": -76.534641}, 
+
+        {"nombre": "Bretana", "lat": 3.439971, "lng": -76.531937}, 
+
+        {"nombre": "Brisas de los Alamos", "lat": 3.492436, "lng": -76.504963}, 
+
+        {"nombre": "Brisas de Mayo", "lat": 3.416825, "lng": -76.562125}, 
+
+        {"nombre": "Brisas de Mayo", "lat": 3.416825, "lng": -76.562125}, 
+
+        {"nombre": "Brisas del Limonar", "lat": 3.401428, "lng": -76.522114}, 
+
+        {"nombre": "Buenos Aires", "lat": 3.392834, "lng": -76.549140}, 
+
+        {"nombre": "Caldas", "lat": 3.395029, "lng": -76.549215}, 
+
+        {"nombre": "Calimio Desepaz", "lat": 3.414629, "lng": -76.468118}, 
+
+        {"nombre": "Calypso", "lat": 3.425338, "lng": -76.499098}, 
+
+        {"nombre": "Camino Real J Borrero", "lat": 3.408104, "lng": -76.544084}, 
+
+        {"nombre": "Caney", "lat": 3.384116, "lng": -76.518128}, 
+
+        {"nombre": "Cañaverales Los Samanes", "lat": 3.402307, "lng": -76.525274}, 
+
+        {"nombre": "Chapinero", "lat": 3.444542, "lng": -76.501652}, 
+
+        {"nombre": "Charco Azul", "lat": 3.441627, "lng": -76.485867}, 
+
+        {"nombre": "Chiminangos I", "lat": 3.476888, "lng": -76.490394}, 
+
+        {"nombre": "Ciudad 2000", "lat": 3.393341, "lng": -76.518807}, 
+
+        {"nombre": "Ciudad Capri", "lat": 3.389573, "lng": -76.541732}, 
+
+        {"nombre": "Ciudad Cordoba", "lat": 3.403510, "lng": -76.505819}, 
+        
+        {"nombre": "Ciudad De Los Alamos", "lat": 3.486253, "lng": -76.508900},
+
+        {"nombre": "Ciudad Talanga", "lat": 3.433492, "lng": -76.469666},
+
+        {"nombre": "Ciudad Comfandi", "lat": 3.384898, "lng": -76.522200},
+
+        {"nombre": "Ciudadela Del Rio", "lat": 3.424695, "lng": -76.465102},
+
+        {"nombre": "Ciudadela Foralia", "lat": 3.495480, "lng": -76.493679},
+
+        {"nombre": "Compartir", "lat": 3.431436, "lng": -76.465539},
+
+        {"nombre": "Cristobal Colon", "lat": 3.420781, "lng": -76.524390},
+
+        {"nombre": "Departamental", "lat": 3.415314, "lng": -76.535895},
+
+        {"nombre": "Desepaz Invicali", "lat": 3.425218, "lng": -76.463453},
+
+        {"nombre": "El Diamante", "lat": 3.421356, "lng": -76.502440},
+
+        {"nombre": "Eduardo Santos", "lat": 3.429287, "lng": -76.505049},
+
+        {"nombre": "El Bosque", "lat": 3.485343, "lng": -76.529690},
+
+        {"nombre": "El Calvario", "lat": 3.450062, "lng": -76.530165},
+
+        {"nombre": "El Cedro", "lat": 3.432841, "lng": -76.537472},
+
+        {"nombre": "El Cortijo", "lat": 3.416230, "lng": -76.559253},
+
+        {"nombre": "El Dorado", "lat": 3.420597, "lng": -76.529096},
+
+        {"nombre": "El Guabal", "lat": 3.415592, "lng": -76.527259},
+
+        {"nombre": "El Ingenio", "lat": 3.382863, "lng": -76.530579},
+
+        {"nombre": "El Jardin", "lat": 3.425280, "lng": -76.517296},
+
+        {"nombre": "El Jordan", "lat": 3.375653, "lng": -76.551607},
+
+        {"nombre": "El Lido", "lat": 3.419357, "lng": -76.550889},
+
+        {"nombre": "El Limonar", "lat": 3.403234, "lng": -76.529530},
+
+        {"nombre": "El Mortinal", "lat": 3.442302, "lng": -76.550256},
+
+        {"nombre": "El Paraiso", "lat": 3.431844, "lng": -76.507255},
+
+        {"nombre": "El Peñon", "lat": 3.450050, "lng": -76.541654},
+
+        {"nombre": "El Poblado I", "lat": 3.418591, "lng": -76.497304},
+
+        {"nombre": "El Poblado II", "lat": 3.420518, "lng": -76.490294},
+
+        {"nombre": "El Prado", "lat": 3.434855, "lng": -76.516719},
+
+        {"nombre": "El Refugio", "lat": 3.398175, "lng": -76.550254},
+
+        {"nombre": "El Remanso", "lat": 3.417611, "lng": -76.464498},
+
+        {"nombre": "El Retiro", "lat": 3.410135, "lng": -76.498649},
+
+        {"nombre": "El Rodeo", "lat": 3.435275, "lng": -76.505261},
+
+        {"nombre": "El Trebol", "lat": 3.443111, "lng": -76.496185},
+
+        {"nombre": "El Vergel", "lat": 3.416242, "lng": -76.499366},
+
+        {"nombre": "Evaristo Garcia", "lat": 3.475696, "lng": -76.506551},
+
+        {"nombre": "Fepicol", "lat": 3.462550, "lng": -76.485603},
+
+        {"nombre": "Flora Industrial", "lat": 3.480791, "lng": -76.504095},
+
+        {"nombre": "Fonaviemcali", "lat": 3.484484, "lng": -76.489071},
+
+        {"nombre": "Francisco Eladio Ramirez", "lat": 3.388367, "lng": -76.548667},
+
+        {"nombre": "Granada", "lat": 3.459389, "lng": -76.534157},
+
+        {"nombre": "Guayaquil", "lat": 3.439507, "lng": -76.527366},
+
+        {"nombre": "Guillermo Valencia", "lat": 3.472716, "lng": -76.510639},
+
+        {"nombre": "Industrial", "lat": 3.452067, "lng": -76.515065},
+
+        {"nombre": "Jorge Eliecer Gaitan", "lat": 3.469975, "lng": -76.481881},
+
+        {"nombre": "Jorge Isaacs", "lat": 3.457521, "lng": -76.518146},
+
+        {"nombre": "Jose Holguin Garces", "lat": 3.408674, "lng": -76.521257},
+
+        {"nombre": "Jose Manuel Marroquin II", "lat": 3.424188, "lng": -76.480197},
+
+        {"nombre": "Jose Maria Cordoba", "lat": 3.422615, "lng": -76.510433},
+
+        {"nombre": "Julio Rincon", "lat": 3.426752, "lng": -76.501595},
+
+        {"nombre": "Junin", "lat": 3.433949, "lng":  -76.528285},
+
+        {"nombre": "La Base", "lat": 3.449052, "lng":  -76.495577},
+
+        {"nombre": "La Campiña", "lat": 3.481070, "lng": -76.527083},
+
+        {"nombre": "La Floresta", "lat": 3.444495, "lng": -76.512579},
+
+        {"nombre": "La Fortaleza", "lat": 3.426305, "lng": -76.512650},
+
+        {"nombre": "La Gran Colombia", "lat": 3.421793, "lng": -76.506826},
+
+        {"nombre": "La Hacienda", "lat": 3.395960, "lng": -76.530130},
+
+        {"nombre": "La Independencia", "lat": 3.416122, "lng": -76.519405},
+
+        {"nombre": "La Isla", "lat": 3.472899, "lng": -76.513617},
+
+        {"nombre": "La Merced", "lat": 3.449622, "lng": -76.535960},
+
+        {"nombre": "La Rivera I", "lat": 3.474330, "lng": -76.485968},
+
+        {"nombre": "La Sultana", "lat": 3.422230, "lng": -76.564223},
+
+        {"nombre": "Las Acacias", "lat": 3.433618, "lng": -76.521086},
+
+        {"nombre": "Las Americas", "lat": 3.447855, "lng": -76.506142},
+
+        {"nombre": "Las Ceibas", "lat": 3.455491, "lng": -76.488053},
+
+        {"nombre": "Las Orquideas", "lat": 3.414002, "lng": -76.476462},
+
+        {"nombre": "Las Quintas de Don Simon", "lat": 3.389805, "lng": -76.535568},
+
+        {"nombre": "Laureano Gomez", "lat": 3.411589, "lng": -76.495584},
+
+        {"nombre": "Leon XIII", "lat": 3.426086, "lng": -76.509373},
+
+        {"nombre": "Lili", "lat": 3.373084, "lng": -76.520538},
+
+        {"nombre": "Lleras Camargo", "lat": 3.419737, "lng": -76.561475},
+
+        {"nombre": "Los Alcazares", "lat": 3.487142, "lng": -76.492217},
+
+        {"nombre": "Los Andes B - La Rivera", "lat": 3.469015, "lng": -76.495111},
+
+        {"nombre": "Los Andes", "lat": 3.470869, "lng": -76.499552},
+
+        {"nombre": "Los Chorros", "lat":  3.394176, "lng": -76.554941},
+
+        {"nombre": "Los Comuneros I", "lat":  3.412106, "lng": -76.492926},
+
+        {"nombre": "Los Comuneros II", "lat":  3.425086, "lng": -76.493322},
+
+        {"nombre": "Los Conquistadores", "lat":  3.425412, "lng": -76.506958},
+
+        {"nombre": "Los Guayacanes", "lat":  3.472111, "lng": -76.489796},
+
+        {"nombre": "Los Lagos", "lat":  3.429513, "lng": -76.486231},
+
+        {"nombre": "Los Lideres", "lat":  3.419015, "lng": -76.466129},
+
+        {"nombre": "Los Naranjos I", "lat":  3.433352, "lng": -76.481213},
+
+        {"nombre": "Los Naranjos II", "lat":  3.433191, "lng": -76.476711},
+
+        {"nombre": "Los Pinos", "lat":  3.458298, "lng": -76.485140},
+
+        {"nombre": "Los Robles", "lat":  3.421665, "lng": -76.495285},
+
+        {"nombre": "Los Sauces", "lat":  3.417327, "lng": -76.513887},
+
+        {"nombre": "Los Sauces", "lat":  3.417327, "lng": -76.513887},
+
+        {"nombre": "Manuela Beltran", "lat":  3.420749, "lng": -76.471839},
+
+        {"nombre": "Mario Correa Rengifo", "lat":  3.387750, "lng": -76.557526},
+
+        {"nombre": "Marroquin III", "lat":  3.432771, "lng": -76.485668},
+
+        {"nombre": "Melendez", "lat":  3.378278, "lng": -76.545090},
+
+        {"nombre": "Metropolitano del Norte", "lat":  3.481907, "lng": -76.491326},
+
+        {"nombre": "Mojica", "lat":  3.415567, "lng": -76.488061},
+
+        {"nombre": "Morichal de Comafandi", "lat":  3.397881, "lng": -76.504315},
+
+        {"nombre": "Napoles", "lat":  3.386337, "lng": -76.548478},
+
+        {"nombre": "Normandia", "lat":  3.452966, "lng": -76.544361},
+
+        {"nombre": "Nueva Floresta", "lat":  3.438552, "lng": -76.495443},
+
+        {"nombre": "Nueva Tequendama", "lat":  3.413199, "lng": -76.543679},
+
+        {"nombre": "Obrero", "lat":  3.447927, "lng": -76.520675},
+
+        {"nombre": "Olaya Herrera", "lat":  3.477604, "lng": -76.508786},
+
+        {"nombre": "Omar Torrijos", "lat":  3.424882, "lng": -76.486684},
+
+        {"nombre": "Parcelaciones Pance", "lat":  3.343053, "lng": -76.534628},
+
+        {"nombre": "Paso del Comercio", "lat":  3.493976, "lng": -76.487356},
+
+        {"nombre": "Petecuy I", "lat":  3.474376, "lng": -76.479998},
+
+        {"nombre": "Petecuy II", "lat":  3.479988, "lng": -76.481908},
+
+        {"nombre": "Petecuy III", "lat":  3.476986, "lng": -76.480940},
+
+        {"nombre": "Pizamos I", "lat":  3.402237, "lng": -76.474805},
+
+        {"nombre": "Pizamos II", "lat":  3.404193, "lng": -76.472057},
+
+        {"nombre": "Pizamos III", "lat":  3.408410, "lng": -76.475447},
+
+        {"nombre": "Polvoines", "lat":  3.371152, "lng": -76.554855},
+
+        {"nombre": "Porvenir", "lat":  3.459261, "lng": -76.514159},
+
+        {"nombre": "Potrero Grande", "lat":  3.407565, "lng": -76.469994},
+
+        {"nombre": "Prados del Limonar", "lat":  3.390547, "lng": -76.528369},
+
+        {"nombre": "Prados del Norte", "lat":  3.470821, "lng": -76.520365},
+
+        {"nombre": "Prados del Oriente", "lat":  3.433009, "lng": -76.514355},
+
+        {"nombre": "Prados del Sur", "lat":  3.388673, "lng": -76.555041},
+
+        {"nombre": "Primavera", "lat":  3.422518, "lng": -76.509166},
+
+        {"nombre": "Primero de Mayo", "lat":  3.406430, "lng": -76.533546},
+
+        {"nombre": "Primitivo Crespo", "lat":  3.438239, "lng": -76.516750},
+
+        {"nombre": "Promociones Populares", "lat":  3.425742, "lng": -76.472626},
+
+        {"nombre": "Puertas del Sol", "lat":  3.432305, "lng": -76.473498},
+
+        {"nombre": "Puerto Mallarino", "lat":  3.450388, "lng": -76.483303},
+
+        {"nombre": "Puerto Nuevo", "lat":  3.453226, "lng": -76.476565},
+
+        {"nombre": "Republica Israel", "lat":  3.407480, "lng": -76.513013},
+
+        {"nombre": "Rodrigo Lara Bonilla", "lat":  3.427940, "lng": -76.488922},
+
+        {"nombre": "Saavedra Galindo", "lat":  3.441418, "lng": -76.514829},
+
+        {"nombre": "Salomia", "lat":  3.464171, "lng": -76.505023},
+
+        {"nombre": "San Benito", "lat":  3.428669, "lng": -76.509808},
+
+        {"nombre": "San Fernando Nuevo", "lat":  3.426564, "lng": -76.543969},
+
+        {"nombre": "San Juan Bosco", "lat":  3.444364, "lng": -76.532202},
+
+        {"nombre": "San Judas Tadeo I", "lat":  3.408727, "lng": -76.524603},
+
+        {"nombre": "San Judas Tadeo II", "lat":  3.414575, "lng": -76.523273},
+
+        {"nombre": "San Luis", "lat":  3.480577, "lng": -76.486661},
+
+        {"nombre": "San Luis II", "lat":  3.488933, "lng": -76.488506},
+
+        {"nombre": "San Marino", "lat":  3.460021, "lng": -76.487659},
+
+        {"nombre": "San Nicolas", "lat":  3.455046, "lng": -76.524512},
+
+        {"nombre": "San Pascual", "lat":  3.445732, "lng": -76.528466},
+
+        {"nombre": "San Pedro Claver", "lat":  3.427923, "lng": -76.502170},
+        
+        {"nombre": "San Vicente", "lat":  3.465737, "lng": -76.527496},
+
+        {"nombre": "Santa Anita", "lat":  3.400347, "lng": -76.534801},
+
+        {"nombre": "Santa Elena", "lat":  3.428647, "lng": -76.524472},
+
+        {"nombre": "Santa Fe", "lat":  3.440639, "lng": -76.505777},
+
+        {"nombre": "Santa Isabel", "lat":  3.428124, "lng": -76.548158},
+
+        {"nombre": "Santa Monica Popular", "lat":  3.437100, "lng": -76.510254},
+
+        {"nombre": "Santo Rosa", "lat":  3.446704, "lng": -76.534058},
+
+        {"nombre": "Santo Domingo", "lat":  3.412185, "lng": -76.532199},
+
+        {"nombre": "Sector Altos de Normandia", "lat":  3.458964, "lng": -76.535662},
+
+        {"nombre": "Sector Melendez", "lat":  3.376222, "lng": -76.546052},
+
+        {"nombre": "Siete de Agosto", "lat":  3.447490, "lng": -76.485184},
+
+        {"nombre": "Siloe", "lat":  3.420827, "lng": -76.557334},
+
+        {"nombre": "Simon Bolivar", "lat":  3.442631, "lng": -76.517776},
+
+        {"nombre": "Sindical", "lat":  3.430688, "lng": -76.500405},
+
+        {"nombre": "Sucre", "lat":  3.447046, "lng": -76.524582},
+
+        {"nombre": "Tejares Cristales", "lat":  3.442965, "lng": -76.550673},
+
+        {"nombre": "Terron Colorado", "lat":  3.454452, "lng": -76.552903},
+
+        {"nombre": "Tierra Blanca", "lat":  3.418967, "lng": -76.558518},
+
+        {"nombre": "Ulpiano Lloreda", "lat":  3.441585, "lng": -76.489890},
+
+        {"nombre": "Unidad Bueno Madrid", "lat":  3.467579, "lng": -76.515931},
+
+        {"nombre": "Union de Vivienda Popular", "lat":  3.410735, "lng": -76.509744},
+
+        {"nombre": "Urbanizacion Ciudad Jardin", "lat":  3.364483, "lng": -76.535931},
+
+        {"nombre": "Urbanizacion Santa Elena", "lat":  3.422950, "lng": -76.523434},
+
+        {"nombre": "Urbanizacion Calimio", "lat":  3.487752, "lng": -76.484789},
+
+        {"nombre": "Villamercedes I - Villa Luz - Las Garzas", "lat":  3.409208, "lng": -76.478278},
+
+        {"nombre": "Vallado", "lat":  3.407410, "lng": -76.499949},
+
+        {"nombre": "Valle Grande", "lat":  3.436904, "lng": -76.470256},
+
+        {"nombre": "Venezuela - Urbanización Canaveralejo", "lat":  3.414711, "lng": -76.558795},
+
+        {"nombre": "Versalles", "lat":  3.461793, "lng": -76.528651},
+
+        {"nombre": "Villablanca", "lat":  3.428745, "lng": -76.495533},
+
+        {"nombre": "Villa del Lago", "lat":  3.438310, "lng": -76.488211},
+
+        {"nombre": "Villa del Prado - El Guabito", "lat":  3.465772, "lng": -76.490872},
+
+        {"nombre": "Villa del Sur", "lat":  3.411610, "lng": -76.519438},
+
+        {"nombre": "Villa San Marcos", "lat":  3.426737, "lng": -76.474439},
+
+        {"nombre": "Villacolombia", "lat":  3.449242, "lng": -76.499707},
+
+        {"nombre": "Villanueva", "lat":  3.429785, "lng": -76.509218},
+
+        {"nombre": "Vista Hermosa", "lat":  3.453242, "lng": -76.570631},
+
+        {"nombre": "Yira Castro", "lat":  3.426641, "lng": -76.497943}
+    ] 
+
+} 

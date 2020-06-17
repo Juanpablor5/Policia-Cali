@@ -1,0 +1,167 @@
+{
+    "policia":[ 
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación Terrón Colorado", "direccion": "Avenida 4 BIS Oeste # 19-00"},
+
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Subestación Montebello", "direccion": "Calle 12 Oeste No 42-71 Cgto Montebello"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Subestación Saladito", "direccion": "KM.14 Vía al mar corregimiento El Saladito"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Subestación Felidia", "direccion": "Calle Principal Corregimiento Felidia"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Subestación La Elvira", "direccion": "Calle Principal Corregimiento La Elvira"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Subestación Tres Cruces", "direccion": "Cerro Tres Cruces"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Subestación Tres Cruces", "direccion": "KM 9 vía Cali-Buenaventura"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación la Flora", "direccion": "AV. 3N. cona calle 23C B/Versalles"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación la Flora", "direccion": "Terminal de Cali"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación la Flora", "direccion": "AV.6 con calle 30"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación la Flora", "direccion": "AV. 2 con calle 52"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación la Flora", "direccion": "AV. 3 con calle 44"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación la Flora", "direccion": "AV. 4 Oeste"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación Fray Damian", "direccion": "Calle 13A No. 13-41"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación Fray Damián", "direccion": "Carrera 10 # 1 OE - 00"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación Fray Damián", "direccion": "Calle 3 # 14 - 00"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación Fray Damián", "direccion": "Calle 3 # 14 - 00"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación San Francisco", "direccion": "Carrera 1N # 33-00"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación Junín", "direccion": "Carrera 24 # 11-08"},
+        
+        {"distrito": "Distrito Uno Fray Damián", "estacion": "Estación Junín", "direccion": "Carrera 10 entre Calle 22A y 23"},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación la Rivera", "direccion": "Carrera 1D # 67-00 B/La Rivera"},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación la Rivera", "direccion": "Carrera 1 & Calle 70 B/ Metropolitano"},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación la Rivera", "direccion": "Carrera 5 & Calle 52 B/ Salomia"},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Floralia", "direccion": "Calle 72J No. 3AN-00 B/ Floralia"},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Floralia", "direccion": "Carrera 1 con Calle 83 B/ Calimio"},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Floralia", "direccion": "Calle 73 con Carrera 3D B/ Quintas de Salomia"},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Alfonso López", "direccion": "Carrera 7D # 82-00 B/Alfonso López"},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Alfonso López", "direccion": "Calle 69 # 7C-00"},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Municipal", "direccion": "Carrera 13 # 39-33 B/Municipal"},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Agua Blanca", "direccion": "Calle 26A # 25-28"},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Agua Blanca", "direccion": "Calle 36 & KRA 47"},
+        
+        {"distrito": "Distrito Dos la Rivera", "estacion": "Estación Nueva Floresta", "direccion": "Calle 44 # 24B-00 B/ Floresta"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Guabal", "direccion": "Carrera 44 # 14B-75"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Caney", "direccion": "Carrera 81 # 47-00 B/Caney"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Caney", "direccion": "AV. 5B con carrera 56"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Caney", "direccion": "Carrera 100 con calle 20"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Meléndez", "direccion": "Calle 4 # 93-00"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Subestación Buitrera", "direccion": "Sector El Plan"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Subestación Buitrera", "direccion": "Carrera 77 calle 2A"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Lido", "direccion": "Carrera 52 # 2-00"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Subestación Pichindé", "direccion": "Vía principal corregimiento Pichinde"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Subestación Pichindé", "direccion": "AV. Circunvalar con Carrera 4"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Subestación Pichindé", "direccion": "Calle 5 Con CRA 36"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Subestación Pichindé", "direccion": "Calle 1 OESTE Con 56"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Subestación Pichindé", "direccion": "KM. 6 Vía Cristo Rey"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Subestación Pichindé", "direccion": "Calle 2 OESTE Con CRA 24"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Sultana", "direccion": "Calle 22 oeste No.47-29 B/ La Sultana"},
+        
+        {"distrito": "Distrito Tres el Lido", "estacion": "Estación Sultana", "direccion": "Carrera 51 # 7-33 Barrio El Cortijo"},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Diamante", "direccion": "Calle 41 # 32A -16"},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Diamante", "direccion": "Carrera 28C con calle 71"},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Diamante", "direccion": "Carrera 25U con calle 72U"},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Los Mangos", "direccion": "Calle 73 # Diag. 26 M-90 B/Marroquín II"},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Mangos", "direccion": "Calle 112 con carrera 26"},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Mangos", "direccion": "Calle 103 con carrerera 28A"},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Mangos", "direccion": "Carrera 26C con calle 84"},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Vallado", "direccion": "Carrera 41B # 50-02"},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Vallado", "direccion": "Calle 83 con Carrera 28D4"},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Mariano Ramos", "direccion": "Carrera 48 # 45-03"},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Desepaz", "direccion": "Calle 121 # 25-00"},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Desepaz", "direccion": "Calle 123 Con caarrera 28D2 B/ Potrero Grande"},
+        
+        {"distrito": "Distrito Cuatro los Mangos", "estacion": "Estación Desepaz", "direccion": "Calle 123 con carrera 28F B/ Pizamos"},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Estación Yumbo", "direccion": "Calle 4 # 5-35 B/Belalcazar"},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Subestación Dapa", "direccion": "Vereda miravalle KM 9 Via Dapa"},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Subestación Dapa", "direccion": "Cslle 10 con carrera 40 Acopi-Yumbo"},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Subestación Dapa", "direccion": "Calle 10 con carrera 18 B/Las Americas"},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Subestación Dapa", "direccion": "Calle 18 con carrera 13A B/La Estancia"},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Subestación Dapa", "direccion": "Calle 5AN # 10AN-09 B/Pizarro"},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Subestación Dapa", "direccion": "KM. 6 VIA Yumbo - Vijes"},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Estación Vijes", "direccion": "Carrera 5 # 5- 23 B/Centro"},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Estación La Cumbre", "direccion": "Carrera 5 # 2 -10"},
+        
+        {"distrito": "Distrito Cinco Yumbo", "estacion": "Subestación Pavas", "direccion": "Carrera 8 con calle 4 esquina"},
+        
+        {"distrito": "Distrito Seis Jamundí", "estacion": "Estación Jamundí", "direccion": "Carrera 10 # 17-02"},
+        
+        {"distrito": "Distrito Seis Jamundí", "estacion": "Estación La María", "direccion": "Carrera 125 # 24-00"},
+        
+        {"distrito": "Distrito Seis Jamundí", "estacion": "Subestación Hormiguero", "direccion": "Calle principal casa 256"},
+        
+        {"distrito": "Distrito Seis Jamundí", "estacion": "Subestación La Vorágine", "direccion": "Vía Principal"},
+        
+        {"distrito": "Distrito Siete Candelaria", "estacion": "Estación Candelaria", "direccion": "Carrera 6 # 8-50"},
+        
+        {"distrito": "Distrito Siete Candelaria", "estacion": "Subestación Cabuyal", "direccion": "Carrera 6 # 5-16"},
+        
+        {"distrito": "Distrito Siete Candelaria", "estacion": "Subestación Carmelo", "direccion": "Calle 14 # 10-09 B/Oaisis"},
+        
+        {"distrito": "Distrito Siete Candelaria", "estacion": "Subestación San Joaquín", "direccion": "Carrera 5C con calle 7"},
+        
+        {"distrito": "Distrito Siete Candelaria", "estacion": "Subestación Villa Gorgona", "direccion": "Carrera 11 # 12-28"},
+        
+        {"distrito": "Distrito Siete Candelaria", "estacion": "Subestación Juanchito", "direccion": "Carrera 8º # 93-58"},
+        
+        {"distrito": "Distrito Siete Candelaria", "estacion": "Subestación Radio Faro", "direccion": "Callejon Pio Pio"}        
+    ]
+}

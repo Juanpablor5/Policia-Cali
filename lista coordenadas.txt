@@ -1,0 +1,218 @@
+0: {nombre: "20 de Julio", lat: 65, lng: 62, homicidios: 0}
+1: {nombre: "3 de Julio", lat: 66, lng: 35, homicidios: 1}
+2: {nombre: "Acueducto san antonio", lat: 54, lng: 31, homicidios: 0}
+3: {nombre: "Agua Blanca", lat: 67, lng: 57, homicidios: 3}
+4: {nombre: "Aguacatal", lat: 41, lng: 17, homicidios: 3}
+5: {nombre: "Alameda", lat: 67, lng: 40, homicidios: 4}
+6: {nombre: "Alferez Real", lat: 109, lng: 26, homicidios: 1}
+7: {nombre: "Alfonso Barberena A.", lat: 64, lng: 67, homicidios: 0}
+8: {nombre: "Alfonso Bonilla Aragón", lat: 80, lng: 92, homicidios: 17}
+9: {nombre: "Alfonso Lopez I", lat: 35, lng: 95, homicidios: 9}
+10: {nombre: "Alfonso Lopez II", lat: 41, lng: 94, homicidios: 1}
+11: {nombre: "Alfonso Lopez III", lat: 45, lng: 93, homicidios: 2}
+12: {nombre: "Alirio Mora Beltran", lat: 61, lng: 96, homicidios: 9}
+13: {nombre: "Alto Napoles", lat: 115, lng: 19, homicidios: 3}
+14: {nombre: "Altos de Menga", lat: 9, lng: 41, homicidios: 3}
+15: {nombre: "Antonio Nariño", lat: 85, lng: 68, homicidios: 8}
+16: {nombre: "Aranjuez", lat: 64, lng: 51, homicidios: 0}
+17: {nombre: "Atanasio Girardot", lat: 55, lng: 66, homicidios: 2}
+18: {nombre: "Belalcazar", lat: 58, lng: 53, homicidios: 11}
+19: {nombre: "Belen", lat: 73, lng: 21, homicidios: 1}
+20: {nombre: "Belisario Caicedo", lat: 86, lng: 18, homicidios: 3}
+21: {nombre: "Bellavista", lat: 55, lng: 22, homicidios: 5}
+22: {nombre: "Benjamin Herrera", lat: 52, lng: 58, homicidios: 2}
+23: {nombre: "Bolivariano", lat: 32, lng: 60, homicidios: 1}
+24: {nombre: "Bosques del Limonar", lat: 99, lng: 40, homicidios: 1}
+25: {nombre: "Bretana", lat: 60, lng: 43, homicidios: 5}
+26: {nombre: "Brisas de los Alamos", lat: 7, lng: 70, homicidios: 6}
+27: {nombre: "Brisas de Mayo", lat: 83, lng: 12, homicidios: 18}
+28: {nombre: "Brisas del Limonar", lat: 98, lng: 52, homicidios: 1}
+29: {nombre: "Buenos Aires", lat: 107, lng: 25, homicidios: 1}
+30: {nombre: "Caldas", lat: 104, lng: 25, homicidios: 1}
+31: {nombre: "Calimio Desepaz", lat: 85, lng: 106, homicidios: 7}
+32: {nombre: "Calypso", lat: 74, lng: 75, homicidios: 4}
+33: {nombre: "Camino Real J Borrero", lat: 91, lng: 30, homicidios: 2}
+34: {nombre: "Caney", lat: 115, lng: 56, homicidios: 5}
+35: {nombre: "Cañaverales Los Samanes", lat: 97, lng: 49, homicidios: 1}
+36: {nombre: "Chapinero", lat: 55, lng: 73, homicidios: 1}
+37: {nombre: "Charco Azul", lat: 58, lng: 89, homicidios: 10}
+38: {nombre: "Chiminangos I", lat: 23, lng: 84, homicidios: 3}
+39: {nombre: "Ciudad 2000", lat: 106, lng: 56, homicidios: 3}
+40: {nombre: "Ciudad Capri", lat: 110, lng: 33, homicidios: 1}
+41: {nombre: "Ciudad Cordoba", lat: 96, lng: 69, homicidios: 18}
+42: {nombre: "Ciudad De Los Alamos", lat: 13, lng: 66, homicidios: 5}
+43: {nombre: "Ciudad Talanga", lat: 66, lng: 105, homicidios: 6}
+44: {nombre: "Ciudad Comfandi", lat: 115, lng: 52, homicidios: 3}
+45: {nombre: "Ciudadela Del Rio", lat: 75, lng: 109, homicidios: 1}
+46: {nombre: "Ciudadela Foralia", lat: 4, lng: 81, homicidios: 17}
+47: {nombre: "Compartir", lat: 68, lng: 109, homicidios: 5}
+48: {nombre: "Cristobal Colon", lat: 79, lng: 50, homicidios: 2}
+49: {nombre: "Departamental", lat: 84, lng: 39, homicidios: 1}
+50: {nombre: "Desepaz Invicali", lat: 74, lng: 111, homicidios: 10}
+51: {nombre: "El Diamante", lat: 78, lng: 72, homicidios: 5}
+52: {nombre: "Eduardo Santos", lat: 70, lng: 69, homicidios: 6}
+53: {nombre: "El Bosque", lat: 14, lng: 45, homicidios: 1}
+54: {nombre: "El Calvario", lat: 49, lng: 44, homicidios: 10}
+55: {nombre: "El Cedro", lat: 67, lng: 37, homicidios: 2}
+56: {nombre: "El Cortijo", lat: 83, lng: 15, homicidios: 6}
+57: {nombre: "El Dorado", lat: 79, lng: 45, homicidios: 1}
+58: {nombre: "El Guabal", lat: 84, lng: 47, homicidios: 6}
+59: {nombre: "El Ingenio", lat: 117, lng: 44, homicidios: 5}
+60: {nombre: "El Jardin", lat: 74, lng: 57, homicidios: 6}
+61: {nombre: "El Jordan", lat: 124, lng: 23, homicidios: 3}
+62: {nombre: "El Lido", lat: 80, lng: 24, homicidios: 4}
+63: {nombre: "El Limonar", lat: 96, lng: 45, homicidios: 1}
+64: {nombre: "El Mortinal", lat: 57, lng: 24, homicidios: 1}
+65: {nombre: "El Paraiso", lat: 68, lng: 67, homicidios: 2}
+66: {nombre: "El Peñon", lat: 49, lng: 33, homicidios: 1}
+67: {nombre: "El Poblado I", lat: 81, lng: 77, homicidios: 9}
+68: {nombre: "El Poblado II", lat: 79, lng: 84, homicidios: 20}
+69: {nombre: "El Prado", lat: 65, lng: 58, homicidios: 1}
+70: {nombre: "El Refugio", lat: 101, lng: 24, homicidios: 1}
+71: {nombre: "El Remanso", lat: 82, lng: 110, homicidios: 3}
+72: {nombre: "El Retiro", lat: 89, lng: 76, homicidios: 23}
+73: {nombre: "El Rodeo", lat: 64, lng: 69, homicidios: 10}
+74: {nombre: "El Trebol", lat: 56, lng: 78, homicidios: 1}
+75: {nombre: "El Vergel", lat: 83, lng: 75, homicidios: 16}
+76: {nombre: "Evaristo Garcia", lat: 24, lng: 68, homicidios: 4}
+77: {nombre: "Fepicol", lat: 37, lng: 89, homicidios: 2}
+78: {nombre: "Flora Industrial", lat: 19, lng: 70, homicidios: 6}
+79: {nombre: "Fonaviemcali", lat: 15, lng: 85, homicidios: 2}
+80: {nombre: "Francisco Eladio Ramirez", lat: 111, lng: 26, homicidios: 1}
+81: {nombre: "Granada", lat: 40, lng: 40, homicidios: 1}
+82: {nombre: "Guayaquil", lat: 60, lng: 47, homicidios: 4}
+83: {nombre: "Guillermo Valencia", lat: 27, lng: 64, homicidios: 1}
+84: {nombre: "Industrial", lat: 47, lng: 59, homicidios: 2}
+85: {nombre: "Jorge Eliecer Gaitan", lat: 30, lng: 93, homicidios: 4}
+86: {nombre: "Jorge Isaacs", lat: 42, lng: 56, homicidios: 2}
+87: {nombre: "Jose Holguin Garces", lat: 91, lng: 53, homicidios: 2}
+88: {nombre: "Jose Manuel Marroquin II", lat: 75, lng: 94, homicidios: 15}
+89: {nombre: "Jose Maria Cordoba", lat: 77, lng: 64, homicidios: 1}
+90: {nombre: "Julio Rincon", lat: 73, lng: 73, homicidios: 1}
+91: {nombre: "Junin", lat: 66, lng: 46, homicidios: 1}
+92: {nombre: "La Base", lat: 50, lng: 79, homicidios: 1}
+93: {nombre: "La Campiña", lat: 18, lng: 47, homicidios: 3}
+94: {nombre: "La Floresta", lat: 55, lng: 62, homicidios: 4}
+95: {nombre: "La Fortaleza", lat: 73, lng: 62, homicidios: 2}
+96: {nombre: "La Gran Colombia", lat: 78, lng: 68, homicidios: 1}
+97: {nombre: "La Hacienda", lat: 104, lng: 44, homicidios: 2}
+98: {nombre: "La Independencia", lat: 83, lng: 55, homicidios: 3}
+99: {nombre: "La Isla", lat: 27, lng: 61, homicidios: 4}
+100: {nombre: "La Merced", lat: 50, lng: 39, homicidios: 1}
+101: {nombre: "La Rivera I", lat: 25, lng: 89, homicidios: 2}
+102: {nombre: "La Sultana", lat: 77, lng: 10, homicidios: 5}
+103: {nombre: "Las Acacias", lat: 66, lng: 53, homicidios: 3}
+104: {nombre: "Las Americas", lat: 52, lng: 68, homicidios: 1}
+105: {nombre: "Las Ceibas", lat: 44, lng: 86, homicidios: 2}
+106: {nombre: "Las Orquideas", lat: 85, lng: 98, homicidios: 8}
+107: {nombre: "Las Quintas de Don Simon", lat: 110, lng: 39, homicidios: 2}
+108: {nombre: "Laureano Gomez", lat: 88, lng: 79, homicidios: 10}
+109: {nombre: "Leon XIII", lat: 73, lng: 65, homicidios: 2}
+110: {nombre: "Lili", lat: 126, lng: 54, homicidios: 1}
+111: {nombre: "Lleras Camargo", lat: 80, lng: 13, homicidios: 23}
+112: {nombre: "Los Alcazares", lat: 12, lng: 82, homicidios: 3}
+113: {nombre: "Los Andes B - La Rivera", lat: 30, lng: 79, homicidios: 2}
+114: {nombre: "Los Andes", lat: 29, lng: 75, homicidios: 2}
+115: {nombre: "Los Chorros", lat: 105, lng: 20, homicidios: 11}
+116: {nombre: "Los Comuneros I", lat: 87, lng: 82, homicidios: 26}
+117: {nombre: "Los Comuneros II", lat: 74, lng: 81, homicidios: 5}
+118: {nombre: "Los Conquistadores", lat: 74, lng: 68, homicidios: 5}
+119: {nombre: "Los Guayacanes", lat: 27, lng: 85, homicidios: 1}
+120: {nombre: "Los Lagos", lat: 70, lng: 88, homicidios: 13}
+121: {nombre: "Los Lideres", lat: 80, lng: 108, homicidios: 5}
+122: {nombre: "Los Naranjos I", lat: 66, lng: 93, homicidios: 9}
+123: {nombre: "Los Naranjos II", lat: 66, lng: 98, homicidios: 2}
+124: {nombre: "Los Pinos", lat: 41, lng: 89, homicidios: 7}
+125: {nombre: "Los Robles", lat: 78, lng: 79, homicidios: 5}
+126: {nombre: "Los Sauces", lat: 82, lng: 61, homicidios: 1}
+127: {nombre: "Lourdes", lat: 108, lng: 19, homicidios: 2}
+128: {nombre: "Manuela Beltran", lat: 79, lng: 103, homicidios: 20}
+129: {nombre: "Mariano Ramos", lat: 96, lng: 58, homicidios: 11}
+130: {nombre: "Mario Correa Rengifo", lat: 112, lng: 17, homicidios: 1}
+131: {nombre: "Marroquin III", lat: 67, lng: 89, homicidios: 9}
+132: {nombre: "Melendez", lat: 121, lng: 29, homicidios: 2}
+133: {nombre: "Metropolitano del Norte", lat: 18, lng: 83, homicidios: 1}
+134: {nombre: "Mojica", lat: 84, lng: 86, homicidios: 23}
+135: {nombre: "Morichal de Comafandi", lat: 102, lng: 70, homicidios: 2}
+136: {nombre: "Napoles", lat: 113, lng: 26, homicidios: 1}
+137: {nombre: "Normandia", lat: 47, lng: 30, homicidios: 1}
+138: {nombre: "Nueva Floresta", lat: 61, lng: 79, homicidios: 6}
+139: {nombre: "Nueva Tequendama", lat: 86, lng: 31, homicidios: 2}
+140: {nombre: "Obrero", lat: 52, lng: 54, homicidios: 8}
+141: {nombre: "Olaya Herrera", lat: 22, lng: 66, homicidios: 2}
+142: {nombre: "Omar Torrijos", lat: 75, lng: 88, homicidios: 8}
+143: {nombre: "Parcelaciones Pance", lat: 156, lng: 40, homicidios: 3}
+144: {nombre: "Paso del Comercio", lat: 6, lng: 87, homicidios: 1}
+145: {nombre: "Petecuy I", lat: 25, lng: 95, homicidios: 5}
+146: {nombre: "Petecuy II", lat: 20, lng: 93, homicidios: 9}
+147: {nombre: "Petecuy III", lat: 23, lng: 94, homicidios: 2}
+148: {nombre: "Pizamos I", lat: 97, lng: 100, homicidios: 10}
+149: {nombre: "Pizamos II", lat: 95, lng: 102, homicidios: 1}
+150: {nombre: "Pizamos III", lat: 91, lng: 99, homicidios: 2}
+151: {nombre: "Polvoines", lat: 128, lng: 20, homicidios: 4}
+152: {nombre: "Porvenir", lat: 40, lng: 60, homicidios: 2}
+153: {nombre: "Potrero Grande", lat: 92, lng: 105, homicidios: 27}
+154: {nombre: "Prados del Limonar", lat: 109, lng: 46, homicidios: 2}
+155: {nombre: "Prados del Norte", lat: 29, lng: 54, homicidios: 3}
+156: {nombre: "Prados del Oriente", lat: 66, lng: 60, homicidios: 0}
+157: {nombre: "Prados del Sur", lat: 111, lng: 19, homicidios: 1}
+158: {nombre: "Primavera", lat: 77, lng: 65, homicidios: 11}
+159: {nombre: "Primero de Mayo", lat: 93, lng: 41, homicidios: 1}
+160: {nombre: "Primitivo Crespo", lat: 61, lng: 58, homicidios: 3}
+161: {nombre: "Promociones Populares", lat: 74, lng: 102, homicidios: 5}
+162: {nombre: "Puertas del Sol", lat: 67, lng: 101, homicidios: 12}
+163: {nombre: "Puerto Mallarino", lat: 49, lng: 91, homicidios: 3}
+164: {nombre: "Puerto Nuevo", lat: 46, lng: 98, homicidios: 4}
+165: {nombre: "Republica Israel", lat: 92, lng: 61, homicidios: 10}
+166: {nombre: "Rodrigo Lara Bonilla", lat: 72, lng: 86, homicidios: 6}
+167: {nombre: "Saavedra Galindo", lat: 58, lng: 60, homicidios: 4}
+168: {nombre: "Salomia", lat: 35, lng: 69, homicidios: 1}
+169: {nombre: "San Benito", lat: 71, lng: 65, homicidios: 6}
+170: {nombre: "San Fernando Nuevo", lat: 73, lng: 31, homicidios: 2}
+171: {nombre: "San Juan Bosco", lat: 55, lng: 42, homicidios: 9}
+172: {nombre: "San Judas Tadeo I", lat: 91, lng: 50, homicidios: 12}
+173: {nombre: "San Judas Tadeo II", lat: 85, lng: 51, homicidios: 1}
+174: {nombre: "San Luis", lat: 19, lng: 88, homicidios: 5}
+175: {nombre: "San Luis II", lat: 11, lng: 86, homicidios: 2}
+176: {nombre: "San Marino", lat: 39, lng: 87, homicidios: 3}
+177: {nombre: "San Nicolas", lat: 44, lng: 50, homicidios: 9}
+178: {nombre: "San Pascual", lat: 54, lng: 46, homicidios: 1}
+179: {nombre: "San Pedro Claver", lat: 72, lng: 72, homicidios: 3}
+180: {nombre: "San Vicente", lat: 34, lng: 47, homicidios: 4}
+181: {nombre: "Santa Anita", lat: 99, lng: 40, homicidios: 3}
+182: {nombre: "Santa Elena", lat: 71, lng: 50, homicidios: 7}
+183: {nombre: "Santa Fe", lat: 59, lng: 69, homicidios: 3}
+184: {nombre: "Santa Isabel", lat: 71, lng: 26, homicidios: 1}
+185: {nombre: "Santa Monica Popular", lat: 62, lng: 64, homicidios: 2}
+186: {nombre: "Santa Rosa", lat: 53, lng: 40, homicidios: 3}
+187: {nombre: "Santo Domingo", lat: 87, lng: 42, homicidios: 3}
+188: {nombre: "Sector Altos de Normandia", lat: 41, lng: 39, homicidios: 1}
+189: {nombre: "Sector Melendez", lat: 123, lng: 28, homicidios: 1}
+190: {nombre: "Siete de Agosto", lat: 52, lng: 89, homicidios: 6}
+191: {nombre: "Siloe", lat: 79, lng: 17, homicidios: 30}
+192: {nombre: "Simon Bolivar", lat: 57, lng: 57, homicidios: 4}
+193: {nombre: "Sindical", lat: 69, lng: 74, homicidios: 3}
+194: {nombre: "Sucre", lat: 52, lng: 50, homicidios: 18}
+195: {nombre: "Tejares Cristales", lat: 57, lng: 24, homicidios: 1}
+196: {nombre: "Terron Colorado", lat: 45, lng: 22, homicidios: 7}
+197: {nombre: "Tierra Blanca", lat: 81, lng: 16, homicidios: 6}
+198: {nombre: "Ulpiano Lloreda", lat: 58, lng: 85, homicidios: 3}
+199: {nombre: "Unidad Bueno Madrid", lat: 32, lng: 59, homicidios: 2}
+200: {nombre: "Union de Vivienda Popular", lat: 89, lng: 65, homicidios: 16}
+201: {nombre: "Urbanizacion Ciudad Jardin", lat: 135, lng: 39, homicidios: 1}
+202: {nombre: "Urbanizacion Santa Elena", lat: 77, lng: 51, homicidios: 4}
+203: {nombre: "Urbanizacion Calimio", lat: 12, lng: 90, homicidios: 6}
+204: {nombre: "Villamercedes I - Villa Luz - Las Garzas", lat: 90, lng: 96, homicidios: 6}
+205: {nombre: "Vallado", lat: 92, lng: 75, homicidios: 19}
+206: {nombre: "Valle Grande", lat: 63, lng: 104, homicidios: 16}
+207: {nombre: "Venezuela - Urbanización Canaveralejo", lat: 85, lng: 16, homicidios: 3}
+208: {nombre: "Versalles", lat: 38, lng: 46, homicidios: 2}
+209: {nombre: "Villablanca", lat: 71, lng: 79, homicidios: 5}
+210: {nombre: "Villa del Lago", lat: 61, lng: 86, homicidios: 5}
+211: {nombre: "Villa del Prado - El Guabito", lat: 34, lng: 84, homicidios: 2}
+212: {nombre: "Villa del Sur", lat: 88, lng: 55, homicidios: 1}
+213: {nombre: "Villa San Marcos", lat: 73, lng: 100, homicidios: 3}
+214: {nombre: "Villacolombia", lat: 50, lng: 75, homicidios: 2}
+215: {nombre: "Villanueva", lat: 70, lng: 65, homicidios: 2}
+216: {nombre: "Vista Hermosa", lat: 46, lng: 4, homicidios: 3}
+217: {nombre: "Yira Castro", lat: 73, lng: 77, homicidios: 1}
